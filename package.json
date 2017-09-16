@@ -1,0 +1,25 @@
+{
+  "name": "webclass1",
+  "version": "1.0.0",
+  "description": "webclass1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webclass"
+  ],
+  "author": "abby vasquez",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.4",
+    "express": "^4.15.4",
+    "jsonwebtoken": "^8.0.0",
+    "mongoose": "^4.11.10"
+  },
+  "devDependencies": {
+    "@angular/cli": "^1.4.1"
+  }
+}
